@@ -12,7 +12,7 @@ public class Main{
         
         System.out.println("Now playing the song");
         mbox2.playSong(mbox2.getSongID(), mbox2.getPremiumSong(), 1);
-        // --- TODO
+        /*TODO
 
         /* Repeat the above code to create another object  
          * Pass different parameters to the MusicBox constructor, but initialise premiumSong to N and when calling the
